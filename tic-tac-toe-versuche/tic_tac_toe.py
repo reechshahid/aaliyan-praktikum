@@ -12,7 +12,8 @@ def undo():
     print("undoing")
 def redo():
     print("redoing")
-    
+
+
 
 
 
@@ -21,6 +22,7 @@ root.title("Test1")
 root.geometry("950x250")
 root.title ("demo1")
 root.configure(background="black")
+
 
 
 menubar = Menu(root)
