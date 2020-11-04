@@ -12,3 +12,5 @@ turtle.end_fill()
 turtle.circle(100)
 # Kreisausschnitt mit 50 Pixel Radius und 90 Grad (sprich ein ¼ Kreis)
 turtle.circle(50,90)
+
+turtle.done()

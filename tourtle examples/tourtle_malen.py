@@ -6,7 +6,7 @@ painter.pencolor("blue")
 
 for i in range(50):
     painter.forward(50)
-    painter.left(123) # Let's go counterclockwise this time 
+    painter.left(123) 
     
 painter.pencolor("red")
 for i in range(50):
